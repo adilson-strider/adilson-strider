@@ -1,5 +1,7 @@
 ## Olá! Seja bem-vindo ao meu perfil! 😁
 
+Sou um estudante iniciante de programação web. Neste espaço, colocarei todos os progressos do meu desenvolvimento.
+
  <div>
    <a href="https://github.com/adilson-strider">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilson-strider&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
