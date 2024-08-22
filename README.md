@@ -1,6 +1,6 @@
-## Olá, seja bem-vindo ao meu perfil!
+### Olá, meu nome é Adilson Junior! 👋
 
-👋 Olá, meu nome é Adilson, estudante de Análise e Desenvolvimento de Sistemas pela Unicarioca. Tenho experiência em Front-End (HTML5, CSS3, React) e Back-End (Java, PHP, Python). Atualmente, estou focado em expandir minhas habilidades para o desenvolvimento mobile com Android, React Native e Flutter.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adilsonjunior.001@gmail.com)
 
 
 
