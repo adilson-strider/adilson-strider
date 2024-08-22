@@ -14,7 +14,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, estudante de Análise e Desenvolvimento de Sistemas pela Unicarioca. Tenho experiência em Front-End (HTML5, CSS3, React) e Back-End (Java, PHP, Python). Atualmente, estou focado em expandir minhas habilidades para o desenvolvimento mobile com Android, React Native e Flutter.
 
 
 
