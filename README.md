@@ -3,8 +3,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adilsonjunior.001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilson-santos-85580828a/)
 
-[![Adilson GitHub stats](https://github-readme-stats.vercel.app/api?username=adilson-strider&theme=radical)](https://github.com/adilson-strider/github-readme-stats)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
