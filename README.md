@@ -14,7 +14,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, estudante de Análise e Desenvolvimento de Sistemas pela Unicarioca. Tenho experiência em Front-End (HTML5, CSS3, React) e Back-End (Java, PHP, Python). Atualmente, estou focado em expandir minhas habilidades para o desenvolvimento mobile com Android, React Native e Flutter.
+Passionate about technology, I am a student of Systems Analysis and Development at Unicarioca. I have experience in Front-End (HTML5, CSS3, React) and Back-End (Java, PHP, Python). Currently, I am focused on expanding my skills in mobile development with Android, React Native, and Flutter.
 
 
 
